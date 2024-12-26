@@ -1,3 +1,4 @@
+pyrotgfork
 aiofiles
 aiohttp
 apscheduler
@@ -31,7 +32,6 @@ pycryptodome
 pygments
 pyrogram>=2.0.30
 pyromod
-pyrotgfork
 PyPDF2
 pymongo>=4.0
 python-decouple
@@ -57,4 +57,3 @@ youtube-search-python>=1.4.6
 ytthumb
 git+https://github.com/agronholm/anyio
 git+https://github.com/Joelkb/cinemagoer
-git+https://github.com/KurimuzonAkuma/pyrogram
